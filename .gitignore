@@ -18,6 +18,7 @@ build/
 .idea/**/uiDesigner.xml
 
 # Gradle:
+!gradle/wrapper/gradle-wrapper.jar
 .gradle/
 .idea/**/gradle.xml
 .idea/**/libraries
